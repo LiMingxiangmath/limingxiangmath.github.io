@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homepage(李明翔)
+title: Welcome to my Homepage
 ---
 
 ## Email
