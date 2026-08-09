@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my Homepage
+title: Homepage
 ---
 
 ## Email
