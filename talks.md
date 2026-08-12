@@ -19,15 +19,15 @@ title: Talks
 -  PDE seminar in Guangzhou University, Guangzhou, Mar. 1, 2025.
 -  The 14th AIMS conference, Section 123 ; Abu Dhabi, UAE,  Dec. 17, 2024.
 -  Geometric analysis seminar of Great Bay University, Dongguan, Jul. 19, Jul. 24, 2024.
--  eometric analysis seminar of Westlake University, Hangzhou, Apr. 26, 2024.
+-  Geometric analysis seminar of Westlake University, Hangzhou, Apr. 26, 2024.
 -  PDEs seminar of Beijing Institute of Technology, Beijing, Mar. 22, 2024.
--  DEs seminar of Academy of Mathematics and Systems Science Chinese Academy of Sciences, Beijing, Mar. 12, 2024.
+-  PDEs seminar of Academy of Mathematics and Systems Science Chinese Academy of Sciences, Beijing, Mar. 12, 2024.
 -  PDEs seminar of East China Normal University, Shanghai, Dec. 12, 2023.
 -  Geometric Analysis Seminar for Young Scholars, Sun Yet-sen  University, Guangzhou, Dec. 03, 2023. 
 -  Differential Geometry Conference  for Young Scholars of Guangxi Normal University and Great Bay University, Guilin,  Nov. 26, 2023.		
 -  PDEs semiar of University of Macau, Macau,  Nov. 08, 2023.
--  eometric analysis seminar of Central South University, Changsha,  Oct. 31, 2023.
--  eometric analysis seminar of Hunan University, Changsha, Oct. 31, 2023.
+-  Geometric analysis seminar of Central South University, Changsha,  Oct. 31, 2023.
+-  Geometric analysis seminar of Hunan University, Changsha, Oct. 31, 2023.
 -  Geometric analysis Conference of NJU and  SJTU, Nanjing, Oct. 21, 2023.
 -   Geometric analysis seminar of  Zhejiang University, Hangzhou, Oct. 10, 2023.					
 -   2023 Xiamen Differential Geometry conference, Xiamen University, Fujian,  Sep. 23, 2023.
