@@ -41,3 +41,8 @@ title: Homepage
 1. Mingxiang Li, A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.[link](https://msp.org/pjm/2022/319-1/p09.xhtml)
 1. Mingxiang Li, Xingwang Xu, A flow approach to mean field equation, **Calc. Var. Partial Differential Equations** 61 (2022).[link](https://link.springer.com/article/10.1007/s00526-022-02253-0)
 1. Xuezhang Chen, Mingxiang Li, Zirui Li, Xingwang Xu, On Gaussian curvature flow, **J. Differential Equations** 294 (2021).[link](https://www.sciencedirect.com/science/article/pii/S002203962100351X?via%3Dihub)
+
+
+## Survey
+
+1. Mingxiang Li, Xingwang Xu, Starting with the triangle（从三角形说起）, 2022. 数学所讲座.2018[M]. 北京：科学出版社，[link](https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BE1F127A2A383A182E053020B0A0AA2E7000).
