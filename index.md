@@ -19,7 +19,7 @@ title: Homepage
 ## Preprints
 
 1. Mingxiang Li, On the positivity of Yamabe invariant and Paneitz operator,[arxiv](https://arxiv.org/abs/2608.09279)
-1.  Mingxiang Li, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
+1. Xumin Jiang, Mingxiang Li, Zhehui Wang, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
 1.  Mingxiang Li, Xingwang Xu, A sharp isoperimetric inequality and the top order $Q$-curvature, [arxiv](https://arxiv.org/abs/2607.06951)
 1. Kui Li, Mingxiang Li, Juncheng Wei, On a new region for the Lane-Emden conjecture in higher dimensions, [arxiv](https://arxiv.org/abs/2510.06613)
 1. Mingxiang Li, Juncheng Wei, Xingwang Xu, On geometry of $Q_{2k}^{g}$-curvature, [arxiv](https://arxiv.org/abs/2506.20165)
