@@ -18,6 +18,7 @@ title: Homepage
 
 ## Preprints
 
+1. Xumin Jiang, Mingxiang Li, Zhehui Wang, On the proof of Bray's conjecture, [arxiv](https://arxiv.org/abs/2608.20215)
 1. Mingxiang Li, On the positivity of Yamabe invariant and Paneitz operator,[arxiv](https://arxiv.org/abs/2608.09279)
 1. Xumin Jiang, Mingxiang Li, Zhehui Wang, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
 1.  Mingxiang Li, Xingwang Xu, A sharp isoperimetric inequality and the top order $Q$-curvature, [arxiv](https://arxiv.org/abs/2607.06951)
