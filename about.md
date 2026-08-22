@@ -14,7 +14,7 @@ title: About Me
 
 ## Research Interests
 
-Geometric analysis, conformal geometry and nonlinear PDE. Recently, I focus on some problems related to Q-curvature.
+Geometric analysis, conformal geometry and nonlinear PDE. Recently, I focus on some problems related to Q-curvature, geometric inequalities and volume comparison theorem.
 
 ## Honors and Awards
 - Outstanding Graduate of Nanjing University, Class of 2024.
