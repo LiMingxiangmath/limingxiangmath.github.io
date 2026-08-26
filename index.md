@@ -18,6 +18,7 @@ title: Homepage
 
 ## Preprints
 
+1. Liuwei Gong, Mingxiang Li, Juncheng Wei, A counterexample to a strong maximum principle for the sixth-order GJMS operator,[arxiv](https://arxiv.org/abs/2608.24148)
 1. Xumin Jiang, Mingxiang Li, Zhehui Wang, On the proof of Bray's conjecture, [arxiv](https://arxiv.org/abs/2608.20215)
 1. Mingxiang Li, On the positivity of Yamabe invariant and Paneitz operator,[arxiv](https://arxiv.org/abs/2608.09279)
 1. Xumin Jiang, Mingxiang Li, Zhehui Wang, Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
