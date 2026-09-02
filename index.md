@@ -4,7 +4,7 @@ title: Homepage
 ---
 
 ## Email
-- limx@smail.nju.edu
+- mingxiang.li@polyu.edu.hk
 
 
 ## Employment 
