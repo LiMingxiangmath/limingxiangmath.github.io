@@ -8,7 +8,8 @@ title: Homepage
 
 
 ## Employment 
-- The Chinese University of Hong Kong,     Sep 2024 -Current,   PostDoc Fellow, Mentor: Juncheng Wei
+- The Hong Kong Polytechnic University, Sep. 2026-Current,  Research Assistant Professor
+- The Chinese University of Hong Kong,     Sep 2024 -Aug 2026,   PostDoc Fellow
 
 
 ## Eudcation
