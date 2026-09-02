@@ -9,6 +9,7 @@ title: About Me
 <img src="assets/images/picture.jpg" alt="Mingxiang Li" width="200">
 
 ## Contact
+- mingling.li@polyu.edu.hk
 - limx@smail.nju.edu.cn
 - limxmath@gmail.com
 
