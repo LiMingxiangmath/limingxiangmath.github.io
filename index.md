@@ -6,6 +6,10 @@ title: Homepage
 ## Email
 - mingxiang.li@polyu.edu.hk
 
+ [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=p1q3zRUAAAAJ)
+
+[Orcid](https://orcid.org/0000-0002-6565-9864)
+ 
 
 ## Employment 
 - The Hong Kong Polytechnic University, Sep. 2026-Current,  Research Assistant Professor
