@@ -43,7 +43,7 @@ title: Homepage
 1. Mingxiang Li, Asymptotic behavior of conformal metrics with null Q-curvature, **J. Geom. Anal.** 35 (2025), no. 5, Paper No. 145.[link](https://link.springer.com/article/10.1007/s12220-025-01977-7)
 1. Mingxiang Li, Juncheng Wei, A remark on the Case-Gursky-Vetois identity and its applications, **Proc. Amer. Math. Soc.** 153 (2025), no. 08, 3417–3430.[link](https://pubs.ams.org/journals/proc/2025-153-08/S0002-9939-2025-17255-0)
 1. Yuxin Ge, Mingxiang Li, Zhao Lian, A new invariant on 3-dimensional manifolds and applications, **Commun. Contemp. Math.** 27 (2025), no. 5, 2450036.[link](https://www.worldscientific.com/doi/10.1142/S0219199724500366)
-1. Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions, **Advance in Mathematics** 450 (2024), Paper No. 109768.[link](https://www.sciencedirect.com/science/article/pii/S0001870824002834?via%3Dihub)
+1. Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions, **Advance in Mathematics** 450 (2024), Paper No. 109768.[link](https://www.sciencedirect.com/science/article/pii/S0001870824002834?via%3Dihub)   
 1. Mingxiang Li, A Liouville-type theorem in conformally invariant equations, **Math. Ann.** 389 (2024), no. 3, 2499–2517.[link](https://link.springer.com/article/10.1007/s00208-023-02712-9)
 1. Mingxiang Li, Xingwang Xu, Asymptotic behavior of conformal metrics on torus, **Discrete Contin. Dyn. Syst.** 44 (2024), no. 5, 1376–1394.[link](https://www.aimsciences.org//article/doi/10.3934/dcds.2023149)
 1. Mingxiang Li, A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.[link](https://msp.org/pjm/2022/319-1/p09.xhtml)
