@@ -46,7 +46,7 @@ title: Homepage
 1. Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions, **Advance in Mathematics** 450 (2024), Paper No. 109768.[link](https://www.sciencedirect.com/science/article/pii/S0001870824002834?via%3Dihub)   
 1. Mingxiang Li, A Liouville-type theorem in conformally invariant equations, **Math. Ann.** 389 (2024), no. 3, 2499–2517.[link](https://link.springer.com/article/10.1007/s00208-023-02712-9)
 1. Mingxiang Li, Xingwang Xu, Asymptotic behavior of conformal metrics on torus, **Discrete Contin. Dyn. Syst.** 44 (2024), no. 5, 1376–1394.[link](https://www.aimsciences.org//article/doi/10.3934/dcds.2023149)
-1. Mingxiang Li, A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.[link](https://msp.org/pjm/2022/319-1/p09.xhtml)
+1. Mingxiang Li, A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.[link](https://msp.org/pjm/2022/319-1/p09.xhtml) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-22-Pacific.pdf)
 1. Mingxiang Li, Xingwang Xu, A flow approach to mean field equation, **Calc. Var. Partial Differential Equations** 61 (2022).[link](https://link.springer.com/article/10.1007/s00526-022-02253-0)
 1. Xuezhang Chen, Mingxiang Li, Zirui Li, Xingwang Xu, On Gaussian curvature flow, **J. Differential Equations** 294 (2021).[link](https://www.sciencedirect.com/science/article/pii/S002203962100351X?via%3Dihub)
 
