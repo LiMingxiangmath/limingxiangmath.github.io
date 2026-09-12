@@ -12,8 +12,8 @@ title: Homepage
  
 
 ## Employment 
-- The Hong Kong Polytechnic University, Sep. 2026-Current,  Research Assistant Professor
-- The Chinese University of Hong Kong,     Sep 2024 -Aug 2026,   PostDoc Fellow
+- The Hong Kong Polytechnic University, Sep.2 2026-Current,  Research Assistant Professor
+- The Chinese University of Hong Kong,     Sep.2  2024 -Sep. 1 2026,   PostDoc Fellow
 
 
 ## Eudcation
