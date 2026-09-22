@@ -23,6 +23,7 @@ title: Homepage
 
 ## Preprints
 
+1. Pak-Yeung Chan, Man-Chun Lee, Mingxiang Li, Volume growth and integral curvature bound for non-negatively curved three-manifolds, [arxiv](https://arxiv.org/abs/2609.24096)
 1. Guosheng Jiang, Mingxiang Li, Zhehui Wang, A Cheng-Yau type estimate for positive biharmonic functions, [arxiv](https://arxiv.org/abs/2609.05965)
 1. Liuwei Gong, Mingxiang Li, Juncheng Wei, A counterexample to a strong maximum principle for the sixth-order GJMS operator,[arxiv](https://arxiv.org/abs/2608.24148)
 1. Xumin Jiang, Mingxiang Li, Zhehui Wang, On the proof of Bray's conjecture, [arxiv](https://arxiv.org/abs/2608.20215)
