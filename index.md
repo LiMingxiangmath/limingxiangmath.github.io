@@ -35,10 +35,10 @@ title: Homepage
 1. Mingxiang Li, Biao Ma, Existence of complete conformal metrics on  $\mathbb{R}^n$ with prescribed Q-curvature, [arxiv](https://arxiv.org/abs/2503.23689)
 1. Mingxiang Li, The total Q-curvature, volume entropy and polynomial growth polyharmonic functions (II), [arxiv](https://arxiv.org/abs/2408.03640)
 1. Mingxiang Li, Conformal metrics with finite total Q-curvature revisited, [arxiv](https://arxiv.org/abs/2405.09872) 
-1. Mingxiang Li, Juncheng Wei, Higher order Bol's equality and its applications, [arxiv](https://arxiv.org/abs/2308.11388)
 
 ## Publications
 
+1.  Mingxiang Li, Juncheng Wei, Higher order Bol's equality and its applications, [arxiv](https://arxiv.org/abs/2308.11388), to appear in **Acta Math. Sin. (Engl. Ser.)**
 1. Mingxiang Li, Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94.[link](https://ems.press/journals/rmi/articles/14299299) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-26-RMI.pdf)
 1. Mingxiang Li, Xingwang Xu, On positivity of the $Q$-curvatures of conformal metrics, **J. Funct. Anal.** 289 (2025), no. 8, Paper No. 111011, 23 pp.[link](https://www.sciencedirect.com/science/article/pii/S0022123625001934) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-25-JFA.pdf)
 1. Mingxiang Li, Asymptotic behavior of conformal metrics with null Q-curvature, **J. Geom. Anal.** 35 (2025), no. 5, Paper No. 145.[link](https://link.springer.com/article/10.1007/s12220-025-01977-7) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-25-JGA.pdf)
