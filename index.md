@@ -16,7 +16,7 @@ title: Homepage
 - The Chinese University of Hong Kong,     Sep.2  2024 -Sep. 1 2026,   PostDoc Fellow
 
 
-## Eudcation
+## Education
 - Nanjing University,   Sep 2019 - Jun 2024,         Ph.D. 
 - University Paul Sabatier,        Oct 2022 - Aug 2023,          Visitor         
 - Nanjing University,               Sep 2015 - Jun 2019,     Bachelor 
