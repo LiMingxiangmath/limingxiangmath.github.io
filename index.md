@@ -23,7 +23,7 @@ title: Homepage
 - University Paul Sabatier,        Oct 2022 - Aug 2023,          Visiting PhD student       
 - Nanjing University,               Sep 2015 - Jun 2019,     Bachelor
 
-##  AI-Assisted research preprint
+##  AI-Assisted research preprints
 1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds, [arxiv](https://arxiv.org/abs/2609.24096)
 1. (With Guosheng Jiang, [Zhehui Wang](https://wang-zhehui.github.io) ) A Cheng-Yau type estimate for positive biharmonic functions,  [arxiv](https://arxiv.org/abs/2609.05965)
 1. (With [Liuwei Gong](https://liuwei-gong.github.io), Juncheng Wei) A counterexample to a strong maximum principle for the sixth-order GJMS operator, [arxiv](https://arxiv.org/abs/2608.24148)
