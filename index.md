@@ -23,14 +23,11 @@ title: Homepage
 - University Paul Sabatier,        Oct 2022 - Aug 2023,          Visiting PhD student       
 - Nanjing University,               Sep 2015 - Jun 2019,     Bachelor
 
-##  AI-Assisted research preprints
+##   Preprints
 1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds, [arxiv](https://arxiv.org/abs/2609.24096)
 1. (With Guosheng Jiang, [Zhehui Wang](https://wang-zhehui.github.io) ) A Cheng-Yau type estimate for positive biharmonic functions,  [arxiv](https://arxiv.org/abs/2609.05965)
 1. (With [Liuwei Gong](https://liuwei-gong.github.io), Juncheng Wei) A counterexample to a strong maximum principle for the sixth-order GJMS operator, [arxiv](https://arxiv.org/abs/2608.24148)
 1. (With [Xumin Jiang](https://yzxumin.github.io),  [Zhehui Wang](https://wang-zhehui.github.io) ) On the proof of Bray's conjecture, [arxiv](https://arxiv.org/abs/2608.20215)
-
-
-## Preprints
 1. On the positivity of Yamabe invariant and Paneitz operator, [arxiv](https://arxiv.org/abs/2608.09279)
 1. (With [Xumin Jiang](https://yzxumin.github.io),  [Zhehui Wang](https://wang-zhehui.github.io) )   Bonnet-Myers type theorems for $Q$-curvature on four-manifolds, [arxiv](https://arxiv.org/abs/2607.25343)
 1.  (With Xingwang Xu) A sharp isoperimetric inequality and the top order $Q$-curvature, [arxiv](https://arxiv.org/abs/2607.06951)
