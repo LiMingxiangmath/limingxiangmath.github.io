@@ -3,6 +3,9 @@ layout: page
 title: Homepage
 ---
 
+
+Welcome to my homepage! I received my PhD from Nanjing University in June 2024. From September 2024 to August 2026, I was a Postdoctoral Fellow at CUHK. Since September 2026, I have been a Research Assistant Professor at PolyU. 
+
 ## Email
 - mingxiang.li@polyu.edu.hk
 
@@ -23,7 +26,9 @@ title: Homepage
 - University Paul Sabatier,        Oct 2022 - Aug 2023,          Visiting PhD student       
 - Nanjing University,               Sep 2015 - Jun 2019,     Bachelor
 
+
 ##   Preprints
+
 1. (With [ Quoc Anh Ngo](https://anhngq.wordpress.com/edocument/publications/), Xingwang Xu) Remarks on prescribed scalar curvature functions, [arxiv](https://arxiv.org/abs/2610.19667)
 1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds, [arxiv](https://arxiv.org/abs/2609.24096)
 1. (With Guosheng Jiang, [Zhehui Wang](https://wang-zhehui.github.io) ) A Cheng-Yau type estimate for positive biharmonic functions,  [arxiv](https://arxiv.org/abs/2609.05965)
