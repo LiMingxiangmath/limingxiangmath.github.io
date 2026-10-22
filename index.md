@@ -45,18 +45,18 @@ Welcome to my homepage! I received my PhD from Nanjing University in June 2024. 
 
 ## Publications
 
-1.  (With Juncheng Wei) Higher order Bol's equality and its applications, [arxiv](https://arxiv.org/abs/2308.11388), to appear in **Acta Math. Sin. (Engl. Ser.)**
-1.  Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94. [link](https://ems.press/journals/rmi/articles/14299299) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-26-RMI.pdf)
-1. (With  Xingwang Xu)  On positivity of the $Q$-curvatures of conformal metrics, **J. Funct. Anal.** 289 (2025), no. 8, Paper No. 111011, 23 pp. [link](https://www.sciencedirect.com/science/article/pii/S0022123625001934) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-25-JFA.pdf)
-1. Asymptotic behavior of conformal metrics with null Q-curvature, **J. Geom. Anal.** 35 (2025), no. 5, Paper No. 145. [link](https://link.springer.com/article/10.1007/s12220-025-01977-7) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-25-JGA.pdf)
-1. (With  Juncheng Wei) A remark on the Case-Gursky-Vetois identity and its applications, **Proc. Amer. Math. Soc.** 153 (2025), no. 08, 3417–3430. [link](https://pubs.ams.org/journals/proc/2025-153-08/S0002-9939-2025-17255-0) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Wei-25-PAMS.pdf)
-1. (With Yuxin Ge, Zhao Lian)  A new invariant on 3-dimensional manifolds and applications, **Commun. Contemp. Math.** 27 (2025), no. 5, 2450036. [link](https://www.worldscientific.com/doi/10.1142/S0219199724500366) [pdf](https://limingxiangmath.github.io/assets/pdf/Ge-Li-Lian-25-CCM.pdf)
-1. The total Q-curvature, volume entropy and polynomial growth polyharmonic functions, **Advance in Mathematics** 450 (2024), Paper No. 109768. [link](https://www.sciencedirect.com/science/article/pii/S0001870824002834?via%3Dihub)    [pdf](https://limingxiangmath.github.io/assets/pdf/Li-24-AdV.pdf)
-1. A Liouville-type theorem in conformally invariant equations, **Math. Ann.** 389 (2024), no. 3, 2499–2517. [link](https://link.springer.com/article/10.1007/s00208-023-02712-9) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-24-Math-Ann.pdf)
-1. (With Xingwang Xu)  Asymptotic behavior of conformal metrics on torus, **Discrete Contin. Dyn. Syst.** 44 (2024), no. 5, 1376–1394. [link](https://www.aimsciences.org//article/doi/10.3934/dcds.2023149) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-23-DCDS.pdf)
-1. A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.[link](https://msp.org/pjm/2022/319-1/p09.xhtml) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-22-Pacific.pdf)
-1. (With Xingwang Xu) A flow approach to mean field equation, **Calc. Var. Partial Differential Equations** 61 (2022). [link](https://link.springer.com/article/10.1007/s00526-022-02253-0) [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-22-CVPDE.pdf)
-1. (With Xuezhang Chen, Zirui Li, Xingwang Xu) On Gaussian curvature flow, **J. Differential Equations** 294 (2021). [link](https://www.sciencedirect.com/science/article/pii/S002203962100351X?via%3Dihub) [pdf](https://limingxiangmath.github.io/assets/pdf/Chen-Li-Li-Xu-21-JDE.pdf)
+1.  (With Juncheng Wei) Higher order Bol's equality and its applications, [arxiv:2308.11388](https://arxiv.org/abs/2308.11388), to appear in **Acta Math. Sin. (Engl. Ser.)** 
+1.  Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-26-RMI.pdf) [arXiv:2401.03457](https://arxiv.org/abs/2401.03457)
+1. (With  Xingwang Xu)  On positivity of the $Q$-curvatures of conformal metrics, **J. Funct. Anal.** 289 (2025), no. 8, Paper No. 111011, 23 pp. [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-25-JFA.pdf) [arXiv:2402.16277](https://arxiv.org/abs/2402.16277)
+1. Asymptotic behavior of conformal metrics with null Q-curvature, **J. Geom. Anal.** 35 (2025), no. 5, Paper No. 145.   [pdf](https://limingxiangmath.github.io/assets/pdf/Li-25-JGA.pdf) [arXiv:2308.12656](https://arxiv.org/abs/2308.12656)
+1. (With  Juncheng Wei) A remark on the Case-Gursky-Vetois identity and its applications, **Proc. Amer. Math. Soc.** 153 (2025), no. 08, 3417–3430. [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Wei-25-PAMS.pdf) [arXiv:2410.09393](https://arxiv.org/abs/2410.09393)
+1. (With Yuxin Ge, Zhao Lian)  A new invariant on 3-dimensional manifolds and applications, **Commun. Contemp. Math.** 27 (2025), no. 5, 2450036. [pdf](https://limingxiangmath.github.io/assets/pdf/Ge-Li-Lian-25-CCM.pdf)
+1. The total Q-curvature, volume entropy and polynomial growth polyharmonic functions, **Advance in Mathematics** 450 (2024), Paper No. 109768.    [pdf](https://limingxiangmath.github.io/assets/pdf/Li-24-AdV.pdf) [arXiv:2306.15623](https://arxiv.org/abs/2306.15623) 
+1. A Liouville-type theorem in conformally invariant equations, **Math. Ann.** 389 (2024), no. 3, 2499–2517.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-24-Math-Ann.pdf) [arXiv:2306.15754](https://arxiv.org/abs/2306.15754)
+1. (With Xingwang Xu)  Asymptotic behavior of conformal metrics on torus, **Discrete Contin. Dyn. Syst.** 44 (2024), no. 5, 1376–1394.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-23-DCDS.pdf)
+1. A note on prescribed Q-curvature, **Pacific J. Math.** 319 (2022), no. 1, 181–188.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-22-Pacific.pdf)
+1. (With Xingwang Xu) A flow approach to mean field equation, **Calc. Var. Partial Differential Equations** 61 (2022). [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-22-CVPDE.pdf)
+1. (With Xuezhang Chen, Zirui Li, Xingwang Xu) On Gaussian curvature flow, **J. Differential Equations** 294 (2021). [pdf](https://limingxiangmath.github.io/assets/pdf/Chen-Li-Li-Xu-21-JDE.pdf)
 
 
 ## Survey
