@@ -30,7 +30,6 @@ Welcome to my homepage! I received my PhD from Nanjing University in June 2024. 
 ##   Preprints
 
 1. (With [ Quoc Anh Ngo](https://anhngq.wordpress.com/edocument/publications/), Xingwang Xu) Remarks on prescribed scalar curvature functions,  [arxiv:2610.19667](https://arxiv.org/abs/2610.19667)
-
 1. (With Guosheng Jiang, [Zhehui Wang](https://wang-zhehui.github.io) ) A Cheng-Yau type estimate for positive biharmonic functions,   [arxiv: 2609.05965](https://arxiv.org/abs/2609.05965)
 1. (With [Liuwei Gong](https://liuwei-gong.github.io), Juncheng Wei) A counterexample to a strong maximum principle for the sixth-order GJMS operator, [arxiv: 2608.24148](https://arxiv.org/abs/2608.24148)
 1. (With [Xumin Jiang](https://yzxumin.github.io),  [Zhehui Wang](https://wang-zhehui.github.io) ) On the proof of Bray's conjecture,  [arxiv:2608.20215](https://arxiv.org/abs/2608.20215)
@@ -45,7 +44,7 @@ Welcome to my homepage! I received my PhD from Nanjing University in June 2024. 
 
 ## Publications
 
-1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds,  [arxiv:2609.24096](https://arxiv.org/abs/2609.24096) to appear in **College Mathematics**((special volume in memory of L.-F. Tam).
+1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds,  [arxiv:2609.24096](https://arxiv.org/abs/2609.24096) to appear in **College Mathematics**(special volume in memory of L.-F. Tam).
 1.  (With Juncheng Wei) Higher order Bol's equality and its applications, [arxiv:2308.11388](https://arxiv.org/abs/2308.11388), to appear in **Acta Math. Sin. (Engl. Ser.)** 
 1.  Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-26-RMI.pdf) [arXiv:2401.03457](https://arxiv.org/abs/2401.03457)
 1. (With  Xingwang Xu)  On positivity of the $Q$-curvatures of conformal metrics, **J. Funct. Anal.** 289 (2025), no. 8, Paper No. 111011, 23 pp. [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-25-JFA.pdf) [arXiv:2402.16277](https://arxiv.org/abs/2402.16277)
