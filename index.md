@@ -44,7 +44,7 @@ Welcome to my homepage! I received my PhD from Nanjing University in June 2024. 
 
 ## Publications
 
-1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds,   **College Mathematics** 1, no. 1 (2026): 64-88. (special volume in memory of L.-F. Tam) [arxiv:2609.24096](https://arxiv.org/abs/2609.24096) 
+1. (With [Pak-Yeung Chan](https://sites.google.com/view/pychanmath/home), [Man-Chun Lee](https://sites.google.com/view/mcleemath/home)) Volume growth and integral curvature bound for non-negatively curved three-manifolds,   **College Mathematics** 1, no. 1 (2026): 64-88. (special volume in memory of L.-F. Tam) [pdf](https://limingxiangmath.github.io/assets/pdf/Chan-Lee-Li-26-CM.pdf) [arxiv:2609.24096](https://arxiv.org/abs/2609.24096) 
 1.  (With Juncheng Wei) Higher order Bol's equality and its applications, [arxiv:2308.11388](https://arxiv.org/abs/2308.11388), to appear in **Acta Math. Sin. (Engl. Ser.)** 
 1.  Obstructions to prescribed Q-curvature of complete conformal metrics on $\mathbb{R}^n$, **Rev. Mat. Iberoam.** 42 (2026), no. 1, pp. 75–94.  [pdf](https://limingxiangmath.github.io/assets/pdf/Li-26-RMI.pdf) [arXiv:2401.03457](https://arxiv.org/abs/2401.03457)
 1. (With  Xingwang Xu)  On positivity of the $Q$-curvatures of conformal metrics, **J. Funct. Anal.** 289 (2025), no. 8, Paper No. 111011, 23 pp. [pdf](https://limingxiangmath.github.io/assets/pdf/Li-Xu-25-JFA.pdf) [arXiv:2402.16277](https://arxiv.org/abs/2402.16277)
